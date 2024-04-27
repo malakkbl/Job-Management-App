@@ -1,0 +1,56 @@
+[
+  {
+    "titre": "Développeur Web Full Stack",
+    "description": "Nous recherchons un développeur web Full Stack expérimenté pour rejoindre notre équipe de développement. Vous serez responsable du développement et de la maintenance de nos applications web, du frontend au backend.",
+    "salaire": "À négocier",
+    "date_creation": "2024-04-22",
+    "annees_experience_requises": 3,
+    "type_emploi": "Full-time",
+    "mode_travail": "Présentielle"
+  },
+  {
+    "titre": "Ingénieur en Intelligence Artificielle",
+    "description": "Nous sommes à la recherche d'un ingénieur en intelligence artificielle passionné pour contribuer à notre projet de développement de systèmes d'intelligence artificielle avancés. Vous serez responsable de la conception, du développement et du déploiement de nos solutions IA.",
+    "salaire": "$90,000 - $120,000 par an",
+    "date_creation": "2024-04-20",
+    "annees_experience_requises": 5,
+    "type_emploi": "Full-time",
+    "mode_travail": "Présentielle"
+  },
+  {
+    "titre": "Chef de Projet Marketing Digital",
+    "description": "Nous recherchons un chef de projet marketing digital dynamique et créatif pour diriger nos campagnes marketing en ligne. Vous serez chargé de développer et de mettre en œuvre des stratégies de marketing digital pour promouvoir nos produits et services.",
+    "salaire": "50,000€ - 70,000€ par an",
+    "date_creation": "2024-04-18",
+    "annees_experience_requises": 4,
+    "type_emploi": "Full-time",
+    "mode_travail": "À distance"
+  },
+  {
+    "titre": "Développeur Frontend Junior",
+    "description": "Nous sommes à la recherche d'un développeur Frontend Junior passionné pour rejoindre notre équipe. Vous participerez au développement et à la maintenance de nos interfaces utilisateur web.",
+    "salaire": "À discuter",
+    "date_creation": "2024-04-16",
+    "annees_experience_requises": 1,
+    "type_emploi": "Part-time",
+    "mode_travail": "Présentielle"
+  },
+  {
+    "titre": "Assistant Marketing Digital",
+    "description": "Nous recherchons un assistant marketing digital pour soutenir nos efforts de marketing en ligne. Vous aiderez à la gestion des médias sociaux, à la création de contenu et à l'analyse des données.",
+    "salaire": "30,000€ - 40,000€ par an",
+    "date_creation": "2024-04-14",
+    "annees_experience_requises": 2,
+    "type_emploi": "Full-time",
+    "mode_travail": "À distance"
+  },
+  {
+    "titre": "Développeur Backend Senior",
+    "description": "Nous sommes à la recherche d'un développeur backend senior pour rejoindre notre équipe. Vous serez responsable du développement et de la maintenance de nos applications back-end.",
+    "salaire": "À négocier",
+    "date_creation": "2024-04-12",
+    "annees_experience_requises": 6,
+    "type_emploi": "Full-time",
+    "mode_travail": "Présentielle"
+  }
+]
