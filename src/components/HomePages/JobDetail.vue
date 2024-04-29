@@ -9,9 +9,7 @@
         <p>Mode de travail: {{ job.mode_travail }}</p>
         <p>Salaire: {{ job.salaire }}</p>
         <p>Années d'expérience requise: {{ job.annees_experience_requises }}</p>
-      </div>
-      <div v-else>
-        <p>Job not found.</p>
+        <router-link :to="{ name: 'EditJob', params: { id: job.id } }">Modifier</router-link>
       </div>
     </div>
   </template>

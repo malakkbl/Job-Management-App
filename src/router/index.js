@@ -17,7 +17,7 @@ const routes = [
     component: AddJob
   },
   {
-    path: '/edit-job',
+    path: '/job/:id/edit-job',
     name: 'EditJob',
     component: EditJob
   },
