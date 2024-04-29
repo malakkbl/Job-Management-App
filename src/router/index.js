@@ -2,7 +2,6 @@ import { createRouter, createWebHistory } from 'vue-router';
 import PageHome from '../components/PageHome.vue';
 import AddJob from '../components/AddJob.vue';
 import EditJob from '../components/EditJob.vue';
-import FilterNav from '../components/HomePages/FilterNav.vue';
 import JobDetail from '../components/HomePages/JobDetail.vue';
 
 const routes = [
@@ -20,11 +19,6 @@ const routes = [
     path: '/job/:id/edit-job',
     name: 'EditJob',
     component: EditJob
-  },
-  {
-    path: '/filter-nav',
-    name: 'FilterNav',
-    component: FilterNav
   },
   {
     path: '/job/:id',
