@@ -16,6 +16,7 @@ header {
   color: white;
   text-align: center;
   padding: 10px;
+  margin-bottom: 50px;
 }
 
 </style>
