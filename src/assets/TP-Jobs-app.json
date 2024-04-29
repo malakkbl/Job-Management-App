@@ -6,7 +6,8 @@
     "date_creation": "2024-04-22",
     "annees_experience_requises": 3,
     "type_emploi": "Full-time",
-    "mode_travail": "Présentielle"
+    "mode_travail": "Présentielle",
+    "id":1
   },
   {
     "titre": "Ingénieur en Intelligence Artificielle",
@@ -15,7 +16,8 @@
     "date_creation": "2024-04-20",
     "annees_experience_requises": 5,
     "type_emploi": "Full-time",
-    "mode_travail": "Présentielle"
+    "mode_travail": "Présentielle",
+    "id":2
   },
   {
     "titre": "Chef de Projet Marketing Digital",
@@ -24,7 +26,8 @@
     "date_creation": "2024-04-18",
     "annees_experience_requises": 4,
     "type_emploi": "Full-time",
-    "mode_travail": "À distance"
+    "mode_travail": "À distance",
+    "id":3
   },
   {
     "titre": "Développeur Frontend Junior",
@@ -33,7 +36,8 @@
     "date_creation": "2024-04-16",
     "annees_experience_requises": 1,
     "type_emploi": "Part-time",
-    "mode_travail": "Présentielle"
+    "mode_travail": "Présentielle",
+    "id":4
   },
   {
     "titre": "Assistant Marketing Digital",
@@ -42,7 +46,8 @@
     "date_creation": "2024-04-14",
     "annees_experience_requises": 2,
     "type_emploi": "Full-time",
-    "mode_travail": "À distance"
+    "mode_travail": "À distance",
+    "id":5
   },
   {
     "titre": "Développeur Backend Senior",
@@ -51,6 +56,7 @@
     "date_creation": "2024-04-12",
     "annees_experience_requises": 6,
     "type_emploi": "Full-time",
-    "mode_travail": "Présentielle"
+    "mode_travail": "Présentielle",
+    "id":6
   }
 ]
