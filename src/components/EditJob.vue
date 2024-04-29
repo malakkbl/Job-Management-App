@@ -62,7 +62,7 @@
         if (index !== -1) {
           jsonData[index] = { ...this.editedJob };
         }
-        this.$router.push({ name: "jobDetail", params: { id: this.editedJob.id } });
+        this.$router.push({ name: "JobDetail", params: { id: this.editedJob.id } });
       },
     },
   };

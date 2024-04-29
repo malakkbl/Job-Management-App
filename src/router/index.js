@@ -28,7 +28,7 @@ const routes = [
   },
   {
     path: '/job/:id',
-    name: 'jobDetail',
+    name: 'JobDetail',
     component: JobDetail
   }
 ];
