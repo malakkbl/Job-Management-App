@@ -6,7 +6,7 @@
       <li v-for="job in jobs" :key="job.id">
         <h3>{{ job.titre }}</h3>
         <button @click="viewJobDetail(job.id)">View Details</button>
-        <button @click="deleteJob(job.id)">Delete</button>
+        <button @click="confirmDelete(job.id)">Delete</button>
       </li>
     </ul>
   </div>
@@ -28,6 +28,11 @@ export default {
     },
     goToAddJob() {
       this.$router.push({ name: 'AddJob' });
+    },
+    confirmDelete(id) {
+      if (confirm('Are you sure you want to delete this job?')) {
+        this.deleteJob(id);
+      }
     },
     deleteJob(id) {
       const index = this.jobs.findIndex(job => job.id === id);
